@@ -16,4 +16,4 @@
 ### Tecnologias que ja usei bastante
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ❤️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romariops&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romariops&layout=compact)
