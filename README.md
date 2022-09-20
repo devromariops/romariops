@@ -1,4 +1,4 @@
-# Ola! Eu sou Romario P.S. 👋
+# Ola! Eu sou Romario P. S. 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romariops&show_icons=true&theme=onedark)
 
